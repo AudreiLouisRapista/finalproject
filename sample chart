@@ -37,6 +37,6 @@
 </div>
 
   <!-- Link to your JS file -->
-  <script src="main.js"></script>
+  <script src="chart.js"></script>
 </body>
 </html>
